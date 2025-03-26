@@ -54,9 +54,6 @@ start index.html  (For Windows)
 xdg-open index.html (For Linux)
 ```
 
-## 📸 Preview (Screenshot)
-![Task Manager Screenshot](assets/screenshot.png)
-
 ## 💡 Learning Outcomes
 - DOM Manipulation using JavaScript ✨
 - Handling Events & User Inputs 🎯
